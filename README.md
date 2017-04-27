@@ -1,0 +1,2 @@
+# sample
+i hate coding
